@@ -1,3 +1,22 @@
-h1 {
+* {
+	font-family: "Lucide Grande", sans-serif;
+}
+
+p {
+	line-height: 200%;
+}
+
+div h1 {
 	text-align: center;
+}
+
+div img {
+	padding-top: 10px;
+	margin-top: 10px;
+	padding-bottom: 12px;
+	margin-bottom: 12px;
+}
+
+div .features {
+	border: 1px solid black;
 }
