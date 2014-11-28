@@ -29,5 +29,6 @@ div img {
 
 div:nth-child(2) div:nth-child(2) {
 	border: 1px solid black;
-	padding: 5px 10px 10px 20px;
+	padding: 0px 10px 10px 15px;
+	line-height: 200%;
 }
