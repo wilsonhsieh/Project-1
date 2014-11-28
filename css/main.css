@@ -8,7 +8,7 @@ div .col-md-5 {
 	padding-right: 5px;
 }
 
-div div .col-md-7 {
+div div.col-md-7 {
 	padding-right: 5px;
 }
 
@@ -35,7 +35,7 @@ div img {
 	margin-bottom: 12px;
 }
 
-div:nth-child(2) div:nth-child(2) {
+div.row:nth-child(2) div.col-md-5 div:nth-child(2) {
 	border: 1px solid #ccc;
 	padding: 0px 10px 10px 15px;
 	line-height: 200%;
